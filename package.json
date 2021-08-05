@@ -1,0 +1,19 @@
+{
+  "name": "crypto_tracker",
+  "version": "1.0.0",
+  "description": "React App for calculating the price and marketcap of many cryptocurriences with graphs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeday-labs/crypto_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeday-labs/crypto_tracker/issues"
+  },
+  "homepage": "https://github.com/codeday-labs/crypto_tracker#readme"
+}
